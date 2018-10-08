@@ -11,9 +11,9 @@ public class AugmentSelection : MonoBehaviour {
     public Sprite selected;
     public Sprite deselected;
 
-    public bool redSelected;
-    public bool blueSelected;
-    public bool purpleSelected;
+    public bool redSelected = false;
+    public bool blueSelected = false;
+    public bool purpleSelected = false;
 
     public void SelectRed()
     {
