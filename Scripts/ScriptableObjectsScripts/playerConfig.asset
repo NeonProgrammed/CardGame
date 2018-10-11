@@ -11,9 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9cb3186a08f4c64468f91fe24497e24d, type: 3}
   m_Name: playerConfig
   m_EditorClassIdentifier: 
-  username: 
+  username: NeonProgrammed
   bugSelected: 0
-  dragonSelected: 0
-  redSelected: 0
+  dragonSelected: 1
+  redSelected: 1
   blueSelected: 0
   purpleSelected: 0
